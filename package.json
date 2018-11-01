@@ -1,0 +1,26 @@
+{
+  "name": "xd-json-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for XD Elements, Artboard and document to convert to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svschannak/xd-json-wrapper.git"
+  },
+  "keywords": [
+    "adobe",
+    "xd",
+    "json",
+    "helper",
+    "wrapper"
+  ],
+  "author": "Sven Schannak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svschannak/xd-json-wrapper/issues"
+  },
+  "homepage": "https://github.com/svschannak/xd-json-wrapper#readme"
+}
