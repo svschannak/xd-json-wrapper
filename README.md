@@ -4,6 +4,17 @@ Adobe XD is a great tool to create interactive prototypes for user experiences. 
 
 This library offers methods to wrap them und use ```JSON.stringify``` on them.
 
+## Installation
+
+```bash
+yarn add xd-json-wrapper
+```
+or
+
+```bash
+npm install xd-json-wrapper
+```
+
 ## Available Methods
 
 ### getXDWrapper
