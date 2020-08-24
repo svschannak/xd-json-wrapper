@@ -177,6 +177,7 @@ class XDSceneNodeWrapper {
             locked: node.locked,
             markedForExport: node.markedForExport,
             hasLinkedContent: node.hasLinkedContent,
+            fixedWhenScrolling: node.fixedWhenScrolling,
             ...result
         };
     }
